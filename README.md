@@ -17,4 +17,9 @@ Desde el mac
 
 
 Para actualizar
-1.- git remote update
+1.- git remote update???
+2.- git pull
+
+Con esto ha bajado el fichero README.md creado en github
+
+
