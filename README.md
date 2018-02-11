@@ -6,7 +6,7 @@ El procedimiento para crear el template ha sido:
 4.- Ejecutar git commit -m "mensaje "
 5.- Crear Repo maven.eclipse.git en github
 6.- Ejecutar git remote add windows https://github.com/jestivalv/maven-commit.git
-7.- Ejecutar git push -u windows
+7.- Ejecutar git push -u windows master
 
 
 Desde el mac
