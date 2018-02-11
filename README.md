@@ -22,4 +22,7 @@ Para actualizar
 
 Con esto ha bajado el fichero README.md creado en github
 
+Cuando modifiquemos algo hay que hacer el commit local y después basta con el push
+Importante en el eclipse de windows hay que dar f5 si estaba abierto para refrescar. 
+
 
